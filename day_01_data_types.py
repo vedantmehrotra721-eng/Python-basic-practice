@@ -1,5 +1,5 @@
 """
-Day 1 Practice: Python Data Types and Dynamic Typing
+Day 1 Practice: Python Data Types
 Goal: Declare variables of different types and verify their categories.
 """
 
